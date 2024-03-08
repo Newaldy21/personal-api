@@ -1,5 +1,5 @@
 {
-  "name": "personal-web-api",
+  "name": "@mmoneybbichs/personal-web-api",
   "version": "1.0.0",
   "description": "Personal Website and API CALL using NodeJS",
   "main": "index.js",
